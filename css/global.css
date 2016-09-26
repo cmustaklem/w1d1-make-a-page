@@ -1,0 +1,94 @@
+body {
+    background-image: url(http://orig13.deviantart.net/d2fa/f/2012/087/7/2/dark_gray_background_2_by_wiedzmawiedzma-d4u8ta2.jpg);
+}
+
+.title{
+    color: black;
+    font-size: 80px;
+    text-align: center;
+    background-color: rgb(205, 224, 88);
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.big-font2{
+    color: rgb(67, 157, 82);
+    font-size: 20px;
+    text-align: center;
+}
+.big-font {
+    color: rgb(67, 157, 82);
+    font-size: 40px;
+}
+
+.paragraph {
+    text-align: left;
+    text-decoration: none;
+    color: white;
+    text-shadow: 2px 2px #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.imglocation {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.center {
+    text-align: center;
+    color: yellow;
+}
+
+.center2 {
+    text-align: center;
+    color: white
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footer {
+    background-color: rgb(11, 175, 245);
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.paragraphtitle {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    text-shadow: 2px 2px #000000;
+    font-size: 30px;
+}
+
+.imgfloat {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+.paragraphtop {
+    text-align: left;
+    text-decoration: none;
+    color: white;
+    text-shadow: 2px 2px #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.linktop {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
