@@ -1,10 +1,11 @@
+
 body {
     background-image: url(http://orig13.deviantart.net/d2fa/f/2012/087/7/2/dark_gray_background_2_by_wiedzmawiedzma-d4u8ta2.jpg);
 }
 
 .title{
     color: black;
-    font-size: 80px;
+    font-size: 10vw;
     text-align: center;
     background-color: rgb(205, 224, 88);
     margin-top: 0px;
@@ -12,7 +13,7 @@ body {
 }
 .big-font2{
     color: rgb(67, 157, 82);
-    font-size: 20px;
+    font-size: 5vw;
     text-align: center;
 }
 .big-font {
